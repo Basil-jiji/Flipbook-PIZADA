@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/McaWebsite/static/css/main.34555d47.css",
+    "main.js": "/McaWebsite/static/js/main.73566241.js",
+    "static/media/sample.pdf": "/McaWebsite/static/media/sample.c67670cf66623446ba6d.pdf",
+    "index.html": "/McaWebsite/index.html",
+    "main.34555d47.css.map": "/McaWebsite/static/css/main.34555d47.css.map",
+    "main.73566241.js.map": "/McaWebsite/static/js/main.73566241.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34555d47.css",
+    "static/js/main.73566241.js"
+  ]
+}
