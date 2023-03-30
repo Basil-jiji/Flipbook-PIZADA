@@ -1,14 +1,47 @@
 {
   "files": {
     "main.css": "/McaWebsite/static/css/main.34555d47.css",
-    "main.js": "/McaWebsite/static/js/main.73566241.js",
+    "main.js": "/McaWebsite/static/js/main.2d9279ca.js",
     "static/media/sample.pdf": "/McaWebsite/static/media/sample.c67670cf66623446ba6d.pdf",
+    "static/media/VishnuEasterCeleb.jpg": "/McaWebsite/static/media/VishnuEasterCeleb.f64c140f9731502e806c.jpg",
+    "static/media/Shootout.jpg": "/McaWebsite/static/media/Shootout.20b7f162560e029b568f.jpg",
+    "static/media/iv.jpg": "/McaWebsite/static/media/iv.9dd6085e351522756835.jpg",
+    "static/media/Wonderla1.jpg": "/McaWebsite/static/media/Wonderla1.c44dd69cc6886928ed59.jpg",
+    "static/media/Yoga.jpg": "/McaWebsite/static/media/Yoga.c42b82f6512c152dbf41.jpg",
+    "static/media/Wonderla.jpg": "/McaWebsite/static/media/Wonderla.7917e992ed7ae2af78d6.jpg",
+    "static/media/Asso.jpg": "/McaWebsite/static/media/Asso.82a863f26b678bd015a6.jpg",
+    "static/media/Shootout1.jpg": "/McaWebsite/static/media/Shootout1.f002ba284e490cccd97a.jpg",
+    "static/media/gurukul.jpg": "/McaWebsite/static/media/gurukul.4f5a0e6691b0b37bb95a.jpg",
+    "static/media/Volleyball.jpg": "/McaWebsite/static/media/Volleyball.7f75697585247ba1c5f7.jpg",
+    "static/media/BookDonation1.jpg": "/McaWebsite/static/media/BookDonation1.08f00d8efe99612d6a91.jpg",
+    "static/media/Sharingday1.jpg": "/McaWebsite/static/media/Sharingday1.8b2099ce35fcf3dabc6a.jpg",
+    "static/media/Onam.jpg": "/McaWebsite/static/media/Onam.f960823e9a065ec78d56.jpg",
+    "static/media/Volleyball1.jpg": "/McaWebsite/static/media/Volleyball1.7d61bd909ddac0eb9be4.jpg",
+    "static/media/Christmas1.jpg": "/McaWebsite/static/media/Christmas1.1f4e983f90bf7d48a666.jpg",
+    "static/media/iv1.jpg": "/McaWebsite/static/media/iv1.264cb2eb670f50f0962c.jpg",
+    "static/media/BookDonation.jpg": "/McaWebsite/static/media/BookDonation.5a2988a632f45c351fc1.jpg",
+    "static/media/snehamrutham.jpg": "/McaWebsite/static/media/snehamrutham.a4c662f533f8950c2895.jpg",
+    "static/media/Prayaana.jpg": "/McaWebsite/static/media/Prayaana.2cf924ace5ca02fb9632.jpg",
+    "static/media/Prayaana1.jpg": "/McaWebsite/static/media/Prayaana1.c5003cfada4a1470331a.jpg",
+    "static/media/Asso1.jpg": "/McaWebsite/static/media/Asso1.83dd720bcfd3c0da8bb4.jpg",
+    "static/media/Sharingday.jpg": "/McaWebsite/static/media/Sharingday.a9ff3afa3faf77ed378e.jpg",
+    "static/media/Christmas2.jpg": "/McaWebsite/static/media/Christmas2.34b410281c4e34b6d33b.jpg",
+    "static/media/Debate1.jpg": "/McaWebsite/static/media/Debate1.7cf5b57f298c33fc73fd.jpg",
+    "static/media/poster1.jpg": "/McaWebsite/static/media/poster1.29469b6f365264ab610a.jpg",
+    "static/media/Debate.jpg": "/McaWebsite/static/media/Debate.24f76bfaea508008ac1a.jpg",
+    "static/media/nectar.jpg": "/McaWebsite/static/media/nectar.7dd4e102a148fa4a9bd9.jpg",
+    "static/media/snehamrutham1.jpg": "/McaWebsite/static/media/snehamrutham1.5d70cebcfffcce9cb18e.jpg",
+    "static/media/VishnuEasterCeleb1.jpg": "/McaWebsite/static/media/VishnuEasterCeleb1.cbea15f0020a97c5532a.jpg",
+    "static/media/Yoga1.jpg": "/McaWebsite/static/media/Yoga1.cdf6efa66f8f48a0517a.jpg",
+    "static/media/Poster.jpg": "/McaWebsite/static/media/Poster.9223a172a0a89ebd0a20.jpg",
+    "static/media/Onam1.jpg": "/McaWebsite/static/media/Onam1.574e93d1efa991d9d5e9.jpg",
+    "static/media/logo192.png": "/McaWebsite/static/media/logo192.30a0ba1d9333ce33c2e3.png",
     "index.html": "/McaWebsite/index.html",
     "main.34555d47.css.map": "/McaWebsite/static/css/main.34555d47.css.map",
-    "main.73566241.js.map": "/McaWebsite/static/js/main.73566241.js.map"
+    "main.2d9279ca.js.map": "/McaWebsite/static/js/main.2d9279ca.js.map"
   },
   "entrypoints": [
     "static/css/main.34555d47.css",
-    "static/js/main.73566241.js"
+    "static/js/main.2d9279ca.js"
   ]
 }
