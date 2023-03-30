@@ -1,12 +1,20 @@
  import React from 'react'
- import { Container, Row, Navbar, Nav } from 'react-bootstrap'
+ import { Container, Navbar, Nav } from 'react-bootstrap'
  
  const Header = () => {
    return (
      <header>
        <Navbar bg="dark" variant='dark' expand="lg" collapseOnSelect>
         <Container>
-        <Navbar.Brand href="/">MCA</Navbar.Brand>
+        <Navbar.Brand href="/">          
+          <img
+              alt=""
+              src={require("../images/logo192.png")}
+              width="40"
+              height="30"
+              className="d-inline-block align-top"
+            />{' '}
+            MCA</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">

@@ -8,9 +8,9 @@ const EventScreen = () => {
   return (
     <>
       <h1>Latest Events</h1>
-      <Row>
+      <Row className='d-flex flex-column-reverse'>
         {activities.map(activity => (
-            <Col key={activity._id} sm={12} md={6} lg={4} xl={3}>
+            <Col key={activity._id} sm={12} md={12} >
                 <Activity activity={activity} />
             </Col>
         ))}

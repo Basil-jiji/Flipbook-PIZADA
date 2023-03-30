@@ -22,9 +22,9 @@ const Page = React.forwardRef(({ pageNumber }, ref) => {
 const Flipbook = () => {
   return (
     <div>
-      <h1>Pizada 15th Edition</h1>
-        <Container className="">
-          <Document file={samplePDF}>
+      <h1><center>Pizada 15th Edition</center></h1>
+        <Container><center>
+          <Document file={samplePDF} className='py-2'>
             <HTMLFlipBook width={width} height={height}>
               <Page pageNumber={1} />
               <Page pageNumber={2} />
@@ -84,6 +84,7 @@ const Flipbook = () => {
               <Page pageNumber={56} />
             </HTMLFlipBook>
         </Document>
+        </center>
     </Container> 
     </div>
   )
